@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Academic</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://LAOS-Y.github.io/publication/</link>
+      <atom:link href="https://LAOS-Y.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://LAOS-Y.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://LAOS-Y.github.io/publication/</link>
     </image>
     
     <item>
       <title>Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization </title>
-      <link>/publication/yang2020cvprw/</link>
+      <link>https://LAOS-Y.github.io/publication/yang2020cvprw/</link>
       <pubDate>Sat, 20 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/yang2020cvprw/</guid>
+      <guid>https://LAOS-Y.github.io/publication/yang2020cvprw/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
