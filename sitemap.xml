@@ -3,15 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/0/</loc>
+    <loc>/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/project/agrivision/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/semantic-segmentation/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/2-stage-egfr/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/medical-imaging/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/stanfordml-chexpert/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2013-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2013-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bingchen-zhao/</loc>
+    <lastmod>2013-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2013-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2013-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/yang2020cvprw/</loc>
+    <lastmod>2013-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shaozuo-yu/</loc>
+    <lastmod>2013-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/siwei-yang/</loc>
+    <lastmod>2013-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yin-wang/</loc>
+    <lastmod>2013-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,39 +92,15 @@
   </url>
   
   <url>
-    <loc>/tag/medical-imaging/</loc>
+    <loc>/tag/computer-graphics/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+    <loc>/project/real-time-ray-tracer/</loc>
   </url>
   
   <url>
     <loc>/author/siwei-yang/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/1/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

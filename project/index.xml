@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
+      <title>AgriVision</title>
+      <link>/project/agrivision/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/agrivision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2-Stage EGFR</title>
-      <link>/project/0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/0/</guid>
+      <link>/project/2-stage-egfr/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/2-stage-egfr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>StanfordML-CheXpert</title>
-      <link>/project/1/</link>
+      <link>/project/stanfordml-chexpert/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/project/stanfordml-chexpert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Ray Tracer</title>
+      <link>/project/real-time-ray-tracer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/1/</guid>
+      <guid>/project/real-time-ray-tracer/</guid>
       <description></description>
     </item>
     
