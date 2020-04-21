@@ -12,5 +12,21 @@
       <link>/</link>
     </image>
     
+    <item>
+      <title>2-Stage EGFR</title>
+      <link>/project/0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StanfordML-CheXpert</title>
+      <link>/project/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

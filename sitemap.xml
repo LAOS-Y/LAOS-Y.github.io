@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/project/0/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
   </url>
   
@@ -15,7 +19,15 @@
   </url>
   
   <url>
+    <loc>/tag/medical-imaging/</loc>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
   </url>
   
   <url>
@@ -32,6 +44,10 @@
   
   <url>
     <loc>/author/siwei-yang/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/1/</loc>
   </url>
   
   <url>
