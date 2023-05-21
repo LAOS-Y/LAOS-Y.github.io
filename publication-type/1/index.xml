@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Siwei Yang</title>
+    <link>https://laos-y.github.io/publication-type/1/</link>
+      <atom:link href="https://laos-y.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://laos-y.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://laos-y.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>AsyInst: Asymmetric Affinity with DepthGrad and Color for Box-Supervised Instance Segmentation</title>
+      <link>https://laos-y.github.io/publication/yang2022asyinst/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://laos-y.github.io/publication/yang2022asyinst/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contrastive Multi-Task Dense Prediction</title>
+      <link>https://laos-y.github.io/publication/yang2023aaai/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://laos-y.github.io/publication/yang2023aaai/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization</title>
+      <link>https://laos-y.github.io/publication/yang2020cvprw/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://laos-y.github.io/publication/yang2020cvprw/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
