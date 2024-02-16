@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Large Language Model | Siwei Yang</title>
+    <link>https://laos-y.github.io/tag/large-language-model/</link>
+      <atom:link href="https://laos-y.github.io/tag/large-language-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Large Language Model</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://laos-y.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Large Language Model</title>
+      <link>https://laos-y.github.io/tag/large-language-model/</link>
+    </image>
+    
+    <item>
+      <title>AQA-Bench: An Interactive Benchmark for Evaluating LLMs&#39; Sequential Reasoning Ability</title>
+      <link>https://laos-y.github.io/publication/yang2024aqabench/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://laos-y.github.io/publication/yang2024aqabench/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
