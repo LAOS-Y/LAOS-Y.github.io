@@ -21,5 +21,14 @@
 </description>
     </item>
     
+    <item>
+      <title>AsyInst: Asymmetric Affinity with DepthGrad and Color for Box-Supervised Instance Segmentation</title>
+      <link>https://laos-y.github.io/publication/yang2022asyinst/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://laos-y.github.io/publication/yang2022asyinst/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
