@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instructed Editing | Siwei Yang</title>
+    <link>https://laos-y.github.io/tag/instructed-editing/</link>
+      <atom:link href="https://laos-y.github.io/tag/instructed-editing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Instructed Editing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://laos-y.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Instructed Editing</title>
+      <link>https://laos-y.github.io/tag/instructed-editing/</link>
+    </image>
+    
+    <item>
+      <title>HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing</title>
+      <link>https://laos-y.github.io/publication/hui2024hq/</link>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://laos-y.github.io/publication/hui2024hq/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
